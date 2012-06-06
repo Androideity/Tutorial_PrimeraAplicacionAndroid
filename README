@@ -1,0 +1,8 @@
+Proyecto que muestra cómo hacer tu primera aplicación en Android.
+
+- Explicación de cómo crear un proyecto nuevo en Eclipse.
+- Crear un primer archivo de layout.
+- Referenciar vistas en XML desde el código Java.
+- Ejecutar tu aplicación en el emulador
+
+Ver tutorial: http://androideity.com/2011/07/08/creando-nuestra-primera-aplicacion-en-android/
